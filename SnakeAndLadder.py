@@ -1,11 +1,12 @@
-### This code is about SnakeandLadder game
-### Initial development started on May 20th 12.30pm CST
+### This code is about SnakeandLadder game developed in Python
 
 
+#Import necessary libraries
 import random as r
 import time, sys
 
 
+#declare Variables
 playerName=[];
 playerPosition=[];
 snakeBite={10:2, 25:6, 40:4, 55:5, 60:22, 77:12, 89:50, 99:1};
